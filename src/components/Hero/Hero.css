@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.slick-slider {
+  position: relative;
+  display: block;
+}
+
+.slick-slide {
+  display: block !important;
+}
+
+
+.full_wrapper{
+    background: #dd5c5c;
+    width: 63%;
+    margin: 3px auto;  
+}
