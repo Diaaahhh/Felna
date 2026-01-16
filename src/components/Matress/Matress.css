@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  background-color: blue;
+  width: 100% ;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.matress{
+width: 85%;
+background-color: aqua;
+}
